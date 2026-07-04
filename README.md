@@ -1,41 +1,45 @@
-# Olá! 👋
+# Hector
 
-Meu nome é **Hector**.
+Estudante de Desenvolvimento de Sistemas • ETEC
 
-Sou estudante do 3º ano do Ensino Médio integrado ao curso Técnico em Desenvolvimento de Sistemas pela ETEC. Tenho interesse em desenvolvimento de software, arquitetura de sistemas, inteligência artificial e Internet das Coisas (IoT).
-
-Atualmente busco desenvolver projetos bem documentados, utilizando boas práticas de engenharia de software desde a concepção até a implementação.
+Focado em backend, IoT e inteligência artificial aplicada a sistemas reais.
 
 ---
 
+## 📊 Status atual
+
+- 🔭 Trabalhando em: CHOKI e Tomora (remake)
+- 🌱 Aprendendo: Arquitetura de Software e APIs REST
+- ⚙️ Foco: projetos completos (do design à implementação)
+  
+  ---
+  
 ## 🚀 Projetos em destaque
 
-* **CHOKI** (em desenvolvimento) — Simulador energético residencial com foco em eficiência energética e integração com IoT. 
-* **Tomora** *(em desenvolvimento)* — Assistente para gerenciamento de medicamentos com integração à Alexa. 
-* **SGCT** *(em desenvolvimento)* — Sistema de Gerenciamento de Chamados Técnicos. 
-* **Smart File Organizer** *(em desenvolvimento)* — Organizador inteligente de arquivos utilizando IA. 
+- **CHOKI** — Simulador energético residencial com integração IoT e foco em eficiência energética.
+- **Tomora** — Assistente de gerenciamento de medicamentos integrado à Alexa (refatoração em andamento).
+- **SGCT** — Sistema de gerenciamento de chamados técnicos.
+- **Smart File Organizer** — Organizador inteligente de arquivos baseado em regras e IA.
 
 ---
 
 ## 💻 Tecnologias
 
-**Linguagens**
+**Backend**
+- PHP
+- Java
+- SQL
 
-* PHP
-* Java
-* JavaScript
-* HTML
-* CSS
-* SQL
+**Frontend**
+- HTML
+- CSS
+- JavaScript
 
-**Ferramentas**
-
-* Git
-* GitHub
-* MySQL
-* Arduino
-* VS Code
-
+**Ferramentas e outros**
+- Git / GitHub
+- MySQL
+- Arduino
+- VS Code
 ---
 
 ## 📚 Atualmente estudando
